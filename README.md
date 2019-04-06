@@ -7,4 +7,5 @@ Write a multithreaded program that implements the banker's algorithm. Create n t
 
 ### Solution
 
-Multithreaded Implementation in C
+Multithreaded Implementation in C [link !](https://google.com)
+
