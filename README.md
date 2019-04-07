@@ -1,5 +1,5 @@
 # Operating System Assignment-Bankers Algorithm Multithreaded Implementation-
-##Bankers Algorithm
+## Bankers Algorithm
 
 ### Question
 
