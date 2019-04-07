@@ -20,4 +20,3 @@ gcc bankers_algorithm.c -std=c99 -pthread -o bankers_algorithm
 
 
 
-
