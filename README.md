@@ -7,5 +7,5 @@ Write a multithreaded program that implements the banker's algorithm. Create n t
 
 ### Solution
     
-    * [Multithreaded Implementation in C !](./bankers_algorithm.c)
+   - [Multithreaded Implementation in C](./bankers_algorithm.c)
 
