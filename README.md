@@ -8,4 +8,16 @@ Write a multithreaded program that implements the banker's algorithm. Create n t
 ### Solution
     
    - [Multithreaded Implementation in C](./bankers_algorithm.c)
+   
+### Compiling Instruction
+```bash
+# compile
+gcc bankers_algorithm.c -std=c99 -pthread -o bankers_algorithm
+
+# execute
+./bankers_algorithm
+```
+
+
+
 
